@@ -1,3 +1,5 @@
+# Replication
+
 Instructions for working with data and dofiles for Jack, McDermott and Sautmann “Multiple Price Lists for Willingness to Pay Elicitation” (referred to below as JMS).
 
 The implementation package for data collection, data cleaning and data analysis to carry out willingness-to-pay measurement using an MPL are provided in a separate GitHub repository: https://github.com/MPL-WTP/MPL-WTP. The data and code provided for replication reproduces Tables 2, 3 and A.1 and Figures 3 and 4 in the published manuscript.
