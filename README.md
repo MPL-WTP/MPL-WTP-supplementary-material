@@ -1,4 +1,4 @@
-# MPL-replication
+# MPL-WTP-supplementary-material
 This repository accompanies Jack, McDermott, Sautmann (Forthcoming) and contains a copy of the paper’s technical appendix as well as the data and replication code for the analyses carried out in the paper.
 
 Reference:
